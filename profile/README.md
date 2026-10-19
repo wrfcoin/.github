@@ -8,7 +8,7 @@ The long-term aim is a decentralized, hyperlocal layer of environmental data and
 
 ## Testnet status
 
-The **public testnet** opened on **2026-10-22**. It is a test network: it may be reset without notice, testnet WRF has no monetary value, and no migration to a mainnet is promised or implied. The network is deliberately attacked on a schedule as part of testing, so attach nothing you cannot afford to lose. The dated [implementation status](https://github.com/wrfcoin/docs/blob/main/STATUS.md) says what is implemented, partial and planned.
+The **public testnet** opened on **2026-10-22**. It is a test network: it may be reset without notice, testnet WRF has no monetary value, and no migration to a mainnet is promised or implied. The network is regularly tested against attacks as part of testing, so attach nothing you cannot afford to lose. The dated [implementation status](https://github.com/wrfcoin/docs/blob/main/STATUS.md) says what is implemented, partial and planned.
 
 What you can do today:
 
