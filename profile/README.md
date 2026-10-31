@@ -15,7 +15,12 @@ What you can do today:
 - **Watch the chain** at <https://wrfcoin.com>: live block height, a weather map, a block explorer, search, the contributor leaderboard, read-only governance and a forecast page.
 - **Hold a wallet** on the website or in the Android app, claim testnet WRF from the faucet, and send and receive it.
 - **Contribute weather data** from an Ambient Weather station or from a phone with a barometer, and earn testnet WRF for observations the chain can verify.
-- **Run a sync node** that follows the chain and serves a local API.
+- **Run a sync node** that follows the chain and serves a local API: with Docker on Linux and macOS, or with a one-file installer on Windows (unsigned preview) from <https://wrfcoin.com/downloads>.
+- **Sign in without a recovery phrase**: the web wallet can use a passkey (Face ID, fingerprint or a security key such as a YubiKey).
+
+## Planned later
+
+These are on the roadmap and are **not** part of the running testnet today: an NFT marketplace for weather-data works, cross-chain bridges, sponsored first sends and social recovery for wallets, and seating outside attesters and block producers. Anything described as planned is a goal, not a feature you can use yet.
 
 Start with the [quickstart](https://github.com/wrfcoin/docs/blob/main/testnet/quickstart.md).
 
